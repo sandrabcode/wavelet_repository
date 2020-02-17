@@ -1,0 +1,15 @@
+###############################################################
+M51, PAWS link
+http://www2.mpia-hd.mpg.de/PAWS/PAWS/Data.html
+
+references:
+Schinnerer et al. 2013, ApJ, 779, 42 (survey reference)
+Pety et al. 2013, ApJ, 779, 43   (data cubes)
+Colombo, Hughes et al. 2014, ApJ, 784, 3 (GMC & island catalog)
+Colombo, Meidt et al. 2014, ApJ, 784, 4 (PdBI+30m moment maps)
+
+###############################################################
+M100 ALMA
+
+https://casaguides.nrao.edu/index.php/M100_Band3_Combine_5.1
+###############################################################
