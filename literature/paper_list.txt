@@ -1,0 +1,12 @@
+#################### wavelet applications ############################
+
+@article{article,
+author = {Dumas, Gaelle and Schinnerer, E. and Tabatabaei, Fatemeh and Beck, R. and Velusamy, T. and Murphy, Eric},
+year = {2010},
+month = {11},
+pages = {},
+title = {The local radio-IR correlation in M51}
+}
+
+################## wavelets and deconvolution ###################
+
