@@ -1,0 +1,30 @@
+summary of telecon on 12/02/20
+
+two potential projects:
+
+Priority #1: 
+build up a set of wavelet routines to be used for:
+
+* scale and position dependent emission statistics
+* wavelet power spectrum plots
+* data deconvolution statistics
+* data combination diagnostics
+
+Priority #2:
+
+* multi-scale deconvolution and the possible role of wavelet functions
+
+
+Plan:
+
+* research literature and insert into literature directory
+* prepare test datasets 
+  - start with M31 data for which a wavelet analysis has already been done in Dumas et al. 
+  - extend this analysis to M100 data
+  - test on more ALMA data sets
+  
+  
+  Action items:
+  * create a repository for the information (this github) and the images (TODO)
+  * look for old wavelet code
+  
